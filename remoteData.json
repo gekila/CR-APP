@@ -1,5 +1,5 @@
 {
-  "testMode": true,
+  "testMode": false,
   "tillName": "ARCTIC SOLUTIONS",
   "tillNumber": "8334020",
   "generateAmount": 100.0,
